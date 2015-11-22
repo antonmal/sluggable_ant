@@ -1,4 +1,4 @@
-module Sluggable
+module SluggableAnt
   extend ActiveSupport::Concern
 
   included do

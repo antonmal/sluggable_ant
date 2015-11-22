@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name = 'sluggable_ant'
-  gem.version = '0.0.1'
+  gem.version = '0.0.3'
   gem.date = Date.today.to_s
 
   gem.summary = 'Adds slug generation and routing to your models.'
